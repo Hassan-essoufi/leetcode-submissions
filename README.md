@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0001-two-sum) |
+| [0290-word-pattern](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0290-word-pattern) |
 ## Sorting
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0058-length-of-last-word) |
+| [0290-word-pattern](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0290-word-pattern) |
 ## String Matching
 |  |
 | ------- |
