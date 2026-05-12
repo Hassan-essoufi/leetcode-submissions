@@ -8,16 +8,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0001-two-sum) |
 | [0164-maximum-gap](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0164-maximum-gap) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0001-two-sum) |
 | [0290-word-pattern](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0290-word-pattern) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0164-maximum-gap) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -48,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
