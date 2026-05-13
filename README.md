@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -70,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
