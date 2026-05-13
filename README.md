@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0009-palindrome-number) |
+| [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
