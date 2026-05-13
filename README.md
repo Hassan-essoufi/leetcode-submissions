@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0001-two-sum) |
 | [0164-maximum-gap](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0169-majority-element) |
 | [0290-word-pattern](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -23,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bucket Sort
 |  |
@@ -59,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
