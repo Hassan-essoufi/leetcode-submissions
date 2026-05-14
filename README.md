@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2784-check-if-array-is-good](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 ## Sorting
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2784-check-if-array-is-good](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 ## Bucket Sort
 |  |
 | ------- |
