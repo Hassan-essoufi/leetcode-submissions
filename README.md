@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -86,4 +87,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
