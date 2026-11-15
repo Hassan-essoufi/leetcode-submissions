@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0485-max-consecutive-ones) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/2784-check-if-array-is-good) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0509-fibonacci-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0610-triangle-judgement](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/0610-triangle-judgement) |
+## Prefix Sum
+|  |
+| ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Hassan-essoufi/leetcode-submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
